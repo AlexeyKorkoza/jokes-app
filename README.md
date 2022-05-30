@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/31645b13-e272-48cf-984f-e768fab4c5f6/deploy-status)](https://app.netlify.com/sites/gleaming-rabanadas-e338ab/deploys)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
