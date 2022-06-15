@@ -15,6 +15,7 @@
     "dev": "remix dev"
   },
   "dependencies": {
+    "@netlify/functions": "^1.0.0",
     "@prisma/client": "^3.14.0",
     "@remix-run/netlify": "^1.4.3",
     "@remix-run/node": "^1.4.3",
